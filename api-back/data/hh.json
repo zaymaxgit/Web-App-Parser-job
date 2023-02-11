@@ -1,0 +1,68 @@
+{
+    "Python Developer": {
+        "href": "https://vladimir.hh.ru/vacancy/76482137?from=vacancy_search_list&query=Python",
+        "price": "от 350 000 руб.",
+        "company": "Aston",
+        "img": "https://img.hhcdn.ru/employer-logo/5829242.jpeg"
+    },
+    "Data Scientist (команда Коммуникации)": {
+        "href": "https://vladimir.hh.ru/vacancy/76096739?from=vacancy_search_list&query=Python",
+        "price": "до 1 000 000 KZT",
+        "company": "ООО HeadHunter::Analytics/Data Science",
+        "img": "https://img.hhcdn.ru/employer-logo/5829242.jpeg"
+    },
+    "Go разработчик со знаниями Python": {
+        "href": "https://vladimir.hh.ru/vacancy/76645849?from=vacancy_search_list&query=Python",
+        "price": "от 250 000 руб.",
+        "company": "ТОО Freedom Drive",
+        "img": "https://img.hhcdn.ru/employer-logo/4069248.png"
+    },
+    "Разработчик Python+MS SQL+1C": {
+        "href": "https://vladimir.hh.ru/vacancy/76852114?from=vacancy_search_list&query=Python",
+        "price": "от 250 000 KZT",
+        "company": "АЛИДИ, Группа компаний",
+        "img": "https://img.hhcdn.ru/employer-logo/4069248.png"
+    },
+    "NLP Analyst": {
+        "href": "https://vladimir.hh.ru/vacancy/75836618?from=vacancy_search_list&query=Python",
+        "price": "15 000 – 39 000 руб.",
+        "company": "ООО Дом Программ",
+        "img": "https://img.hhcdn.ru/employer-logo/5511141.jpeg"
+    },
+    "Аналитик данных / Data Analyst": {
+        "href": "https://vladimir.hh.ru/vacancy/69166398?from=vacancy_search_list&query=Python",
+        "price": "15 000 – 39 000 руб.",
+        "company": "Сбер. Экспертам и руководителям",
+        "img": "https://img.hhcdn.ru/employer-logo/1063242.jpeg"
+    },
+    "Специалист по разработке чат-ботов": {
+        "href": "https://vladimir.hh.ru/vacancy/76844493?from=vacancy_search_list&query=Python",
+        "price": "15 000 – 39 000 руб.",
+        "company": "ТОО Restore",
+        "img": "https://img.hhcdn.ru/employer-logo/1063242.jpeg"
+    },
+    "Специалист службы поддержки с техническими знаниями (TOOLS)": {
+        "href": "https://vladimir.hh.ru/vacancy/73595103?from=vacancy_search_list&query=Python",
+        "price": "800 – 1 500 USD",
+        "company": "Яндекс",
+        "img": "https://img.hhcdn.ru/employer-logo/859857.png"
+    },
+    "Инженер по внедрению (middle, senior)": {
+        "href": "https://vladimir.hh.ru/vacancy/75579609?from=vacancy_search_list&query=Python",
+        "price": "125 000 – 243 000 руб.",
+        "company": "ЦРТ | Группа компаний",
+        "img": "https://img.hhcdn.ru/employer-logo/859857.png"
+    },
+    "Senior DevOps Engineer (Yepp)": {
+        "href": "https://vladimir.hh.ru/vacancy/71486585?from=vacancy_search_list&query=Python",
+        "price": "100 000 – 200 000 руб.",
+        "company": "FUNCORP",
+        "img": "https://img.hhcdn.ru/employer-logo/5756157.png"
+    },
+    "Data engineer (middle+)": {
+        "href": "https://vladimir.hh.ru/vacancy/75634437?from=vacancy_search_list&query=Python",
+        "price": "60 000 – 220 000 руб.",
+        "company": "билайн: ИТ, Data, Digital",
+        "img": "https://img.hhcdn.ru/employer-logo/5756157.png"
+    }
+}

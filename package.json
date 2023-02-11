@@ -1,0 +1,10 @@
+{
+    "scripts": {
+        "start-back":"node api-back/index",
+        "start-front":"npm run dev --prefix react-front",
+        "start": "concurrently --kill-others \"npm run start-back\" \"npm run start-front\""
+    },
+    "devDependencies": {
+        "concurrently": "^7.6.0"
+    }
+}
